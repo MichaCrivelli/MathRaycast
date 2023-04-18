@@ -3,7 +3,7 @@ This project is one of my math exercises where I made 2D raycasts using linear f
 
 
 # Try it yourself
-You can try or download the project on itch.io : https://evercromby.itch.io/math-raycast
+You can try or download the project on itch.io : https://evercromby.itch.io/math-raycast  
 It's available for as WebGl and .exe
 
 # Learnings
